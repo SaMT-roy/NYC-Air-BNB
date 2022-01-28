@@ -12,6 +12,6 @@ This public dataset is part of Airbnb, and the original source can be found on t
 
 Inspiration :-
 
-What can we learn about overall data and how do we visualize them?
-What can we learn from predictions? (ex: prices and reviews)
-How does the acccuracies varies across different classification models for availablity of airbnb's?
+1) What can we learn about overall data and how do we visualize them?
+2) What can we learn from predictions? (ex: prices and reviews)
+3) How does the acccuracies varies across different classification models for availablity of airbnb's?
