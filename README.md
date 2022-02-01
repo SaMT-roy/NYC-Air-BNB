@@ -23,8 +23,8 @@ Data Analysis and Visualization
  
  ![image](https://user-images.githubusercontent.com/82521644/152035968-8575321f-f472-43d0-9da9-4ee7b1c07260.png)
  
- ![image](https://user-images.githubusercontent.com/82521644/152036139-ea1bcfbc-9432-4fbc-b264-baac338a907c.png)
- 
+  ![image](https://user-images.githubusercontent.com/82521644/152037567-29927694-4afb-49c7-9f52-bf7e8f6ffb02.png)
+
 
 Price :- 
 
@@ -33,11 +33,12 @@ Price :-
 
 Neighbourhood Location :- 
 
-![image](https://user-images.githubusercontent.com/82521644/152036139-ea1bcfbc-9432-4fbc-b264-baac338a907c.png)
+![image](https://user-images.githubusercontent.com/82521644/152037665-36d932f5-d44e-41f5-9d2a-46beb71dd1dd.png)
 
- ![image](https://user-images.githubusercontent.com/82521644/152036380-d2242cb6-5b3c-416b-962f-2ba53261f3be.png)
 
-![image](https://user-images.githubusercontent.com/82521644/152036410-1425b4dc-30c3-4da0-822d-f374379d2ff9.png)
+
+![image](https://user-images.githubusercontent.com/82521644/152037615-f43fba42-4669-4034-b514-93eba7fa54c8.png)
+
 
 
 
@@ -63,6 +64,11 @@ Alternate : Average availablity of Airbnbs would be different if we take a sampl
 Same distributions hence we fail to reject H0(Null Hypothesis)
 
 Here we fail to reject H0 and hence we accept the null hypothesis itself that the average availablity of Airbnbs would be same even if we take a sample of availablity data.
+
+
+Correlation :-
+
+![image](https://user-images.githubusercontent.com/82521644/152037787-9e3fd78a-b113-4afc-a10c-4a0518186c93.png)
 
 
 
