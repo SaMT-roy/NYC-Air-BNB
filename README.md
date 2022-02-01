@@ -20,16 +20,22 @@ Inspiration :-
 Data Analysis and Visualization
 
  Room Type :-
+ 
  ![image](https://user-images.githubusercontent.com/82521644/152035968-8575321f-f472-43d0-9da9-4ee7b1c07260.png)
+ 
+ ![image](https://user-images.githubusercontent.com/82521644/152036380-d2242cb6-5b3c-416b-962f-2ba53261f3be.png)
+ 
 
 Price :- 
+
 ![image](https://user-images.githubusercontent.com/82521644/152036186-a8b23000-0035-4680-974d-eff73be4ef00.png)
 
 
 Neighbourhood Location :- 
+
 ![image](https://user-images.githubusercontent.com/82521644/152036139-ea1bcfbc-9432-4fbc-b264-baac338a907c.png)
 
-![image](https://user-images.githubusercontent.com/82521644/152036380-d2242cb6-5b3c-416b-962f-2ba53261f3be.png)
+
 
 ![image](https://user-images.githubusercontent.com/82521644/152036410-1425b4dc-30c3-4da0-822d-f374379d2ff9.png)
 
@@ -43,6 +49,7 @@ Availability :-
 
 Hypothesis Testing :
 
+
 T-Test (Students T-Test)
 
 Here, i performed t-test to check wheather the availablity of airbnb when taken a sample would change majorly with that of the overall average avaialblity of all airbnbs for airbnb's which are available for atleast more than a month.
@@ -51,7 +58,8 @@ Null hypothsis : Average availablity of Airbnbs would be same even if we take a 
 
 Alternate : Average availablity of Airbnbs would be different if we take a sample of availablity data.
 
-Statistics=-0.436, p=0.663
+   Statistics = -0.436, p = 0.663
+
 Same distributions hence we fail to reject H0(Null Hypothesis)
 
 Here we fail to reject H0 and hence we accept the null hypothesis itself that the average availablity of Airbnbs would be same even if we take a sample of availablity data.
