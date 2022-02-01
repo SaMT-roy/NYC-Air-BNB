@@ -65,6 +65,8 @@ Same distributions hence we fail to reject H0(Null Hypothesis)
 
 Here we fail to reject H0 and hence we accept the null hypothesis itself that the average availablity of Airbnbs would be same even if we take a sample of availablity data.
 
+.
+
 
 Correlation :-
 
